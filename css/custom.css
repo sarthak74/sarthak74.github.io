@@ -466,11 +466,7 @@ h5 {
     }
 }
 
-@media (min-width: 769.1px) {
-    .contact-val {
-        float: left;
-    }
-}
+@media (min-width: 769.1px) {}
 
 #contact input[type="submit"]:hover {
     background: #ffffff;
