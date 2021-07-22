@@ -457,9 +457,18 @@ h5 {
     transition: all 0.4s ease-in-out;
 }
 
-@media (max-width: 480px) {
+@media (max-width: 769px) {
     .contact-details {
         text-align: center;
+    }
+    .contact-val {
+        margin-top: 10px;
+    }
+}
+
+@media (min-width: 769.1px) {
+    .contact-val {
+        float: left;
     }
 }
 
