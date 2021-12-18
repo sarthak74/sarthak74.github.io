@@ -7,7 +7,7 @@ https://templatemo.com/tm-458-lavish
 */
 
 body {
-    background: #000000;
+    background: rgb(26, 26, 26);
     color: #999;
     font-family: 'Raleway', sans-serif;
     font-size: 16px;
@@ -219,9 +219,10 @@ h5 {
 /* start home */
 
 #home {
-    background: url('../images/back.jpg');
-    background-size: cover;
+    background: url('../images/logo-1.png');
+    background-size: 40vw 40vw;
     background-repeat: no-repeat;
+    background-position: center;
     padding-top: 120px;
     padding-bottom: 140px;
     text-align: center;
